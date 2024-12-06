@@ -1,4 +1,4 @@
-# Ngoc Hai NGUYEN 
+# Hai NGUYEN Ngoc 
 ## Personal Information
 **DoB:** 14/01/2001 <br>
 **Adrress:** Ha Noi, Viet Nam <br>
