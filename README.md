@@ -23,7 +23,8 @@
 ### Three-Omni-wheeled robot applied for fire detection and early warning
 (2022-2023, SEFAS-STI-VAST, research project) <br>
 **Publication:**
-- “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot” published in Engineering, Technology & Applied Science Research, doi: 10.48084/etasr.6252. (Q2) <br>
+- “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot” published in Engineering, Technology & Applied Science Research, doi: 10.48084/etasr.6252. (Q2) 
+
 **Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Fire_and_Smoke_Warning_Robot
 ###  Autonomous four-wheeled vehicles applied AI and sensor exploitation 
 (2023-2025, SEFAS-STI-VAST, research project) <br>
