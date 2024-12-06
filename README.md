@@ -14,4 +14,29 @@
 **Master(2023-2025):** Data Science - Information and Communication Technonoly Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **GPA:** 14.8/20 (until 10/2024) <br>
 **PhD(finding and waiting)**
 ## Research
-
+### Cable climbing robot application for damage identification on suspension bridge cables
+### Three-Omni-wheeled robot applied for fire detection and early warning
+**Publication:**
+- “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot” published in Engineering, Technology & Applied Science Research, doi: 10.48084/etasr.6252. (Q2)
+**Github:**
+###  Autonomous four-wheeled vehicles applied AI and sensor exploitation
+**Publication:**
+- “Study on the Control Method for Self-Driving Car Based on Kinematics and Dynamics Mathematics Model” published in The 7th International Conference on Engineering Mechanics and Automation, doi: 10.15625/vap.2023.0124. (conference)
+- “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)
+**Github:**
+### 4-degree-of-freedom robotic arm
+**Github:**
+### Heart disease prediction with supervised Machine Learning methods
+**Github:**
+### Convolutional neural network from scratch
+**Github:**
+### STUE digital twin
+**Github:**
+### Image similarity for Cuckoo eggs evoluation.
+**Github:**
+## Other Achievements
+• **Academic encouragement scholarship** awarded by University of Engineering and Technology in the school year
+2022-2023.
+• **First prize** at the **Scientific Research Student Conference** of the University of Engineering and Technology
+2021-2022.
+• **Prize for Student of 5 merits of Hanoi – Vietnam** in 2023.
