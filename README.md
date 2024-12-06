@@ -7,7 +7,7 @@
 *Phone:* +84 971511509 (Vietnam)
 ## Work domain
 1. Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) - research and develop.
-2. Robotics, Mechatronics, Electronics - research and develop.
+2. Robotics, Mechatronics, Electronics, Autonomous and Automatic System (vehicles, robots, ...) - research and develop.
 3. Education - teachers, teaching assistant.
 ## Education
 **Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (VNU); **GPA:** 3.45/4. <br>
