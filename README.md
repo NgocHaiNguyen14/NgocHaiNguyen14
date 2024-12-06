@@ -10,7 +10,7 @@
 2. Robotics, Mechatronics, Electronics, Autonomous and Automatic System (vehicles, robots, ...) - research and develop.
 3. Education - teachers, teaching assistant.
 ## Education
-**Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (VNU); **C-GPA:** 3.45/4. <br>
+**Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (UET-VNU); **C-GPA:** 3.45/4. <br>
 **Master(2023-2025):** Data Science - Information and Communication Technonoly Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.8/20 (until 10/2024) <br>
 **PhD(finding and waiting)**
 ## Research
