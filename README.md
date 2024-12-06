@@ -5,7 +5,7 @@
 **Contact:** <br>
 *Email:* Hainn.m23ict@usth.edu.vn or nguyenngochai1412001@gmail.com <br>
 *Phone:* +84 971511509 (Vietnam)
-## Work domains
+## Work Domains
 1. Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL) - research and develop.
 2. Robotics, Mechatronics, Electronics, Autonomous and Automatic System (vehicles, robots, ...) - research and develop.
 3. Education - teachers, teaching assistant.
