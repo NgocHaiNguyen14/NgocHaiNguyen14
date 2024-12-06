@@ -24,14 +24,16 @@
 - “Study on the Control Method for Self-Driving Car Based on Kinematics and Dynamics Mathematics Model” published in The 7th International Conference on Engineering Mechanics and Automation, doi: 10.15625/vap.2023.0124. (conference)
 - “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)  <br>
 **Github:**
+  - Private repository: https://github.com/NgocHaiNguyen14/Auto_driving_car
+  - A part of private project: 
 ### 4-degree-of-freedom robotic arm
 **Github:**
 ### Heart disease prediction with supervised Machine Learning methods
 **Github:**
 ### Convolutional neural network from scratch
-**Github:**
+**Github:** https://github.com/NgocHaiNguyen14/dl2024
 ### STUE digital twin
-**Github:**
+**Github:** https://github.com/ctl6998/DigitTwin (Contributors)
 ### Image similarity for Cuckoo eggs evoluation.
 **Github:**
 ## Other Achievements
