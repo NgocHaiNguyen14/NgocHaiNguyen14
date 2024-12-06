@@ -27,15 +27,15 @@
   - Private repository: https://github.com/NgocHaiNguyen14/Auto_driving_car
   - A part of private project: 
 ### 4-degree-of-freedom robotic arm
-**Github:**
+**Github:** https://github.com/NgocHaiNguyen14/4-degree-of-freedom-robotic-arm
 ### Heart disease prediction with supervised Machine Learning methods
-**Github:**
+**Github:** https://github.com/NgocHaiNguyen14/HeartDiseasePrediction-ML
 ### Convolutional neural network from scratch
 **Github:** https://github.com/NgocHaiNguyen14/dl2024
 ### STUE digital twin
 **Github:** https://github.com/ctl6998/DigitTwin (Contributors)
 ### Image similarity for Cuckoo eggs evoluation.
-**Github:**
+**Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckkoEggs
 ## Other Achievements
 • **Academic encouragement scholarship** awarded by University of Engineering and Technology in the school year
 2022-2023. <br>
