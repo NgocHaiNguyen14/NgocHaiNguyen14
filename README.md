@@ -19,10 +19,10 @@
 **Publication:**
 - “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot” published in Engineering, Technology & Applied Science Research, doi: 10.48084/etasr.6252. (Q2)
 **Github:**
-###  Autonomous four-wheeled vehicles applied AI and sensor exploitation
+###  Autonomous four-wheeled vehicles applied AI and sensor exploitation 
 **Publication:**
 - “Study on the Control Method for Self-Driving Car Based on Kinematics and Dynamics Mathematics Model” published in The 7th International Conference on Engineering Mechanics and Automation, doi: 10.15625/vap.2023.0124. (conference)
-- “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)
+- “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)  <br>
 **Github:**
 ### 4-degree-of-freedom robotic arm
 **Github:**
@@ -36,7 +36,7 @@
 **Github:**
 ## Other Achievements
 • **Academic encouragement scholarship** awarded by University of Engineering and Technology in the school year
-2022-2023.
+2022-2023. <br>
 • **First prize** at the **Scientific Research Student Conference** of the University of Engineering and Technology
-2021-2022.
-• **Prize for Student of 5 merits of Hanoi – Vietnam** in 2023.
+2021-2022. <br>
+• **Prize for Student of 5 merits of Hanoi – Vietnam** in 2023. <br>
