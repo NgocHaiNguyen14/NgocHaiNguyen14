@@ -34,6 +34,9 @@
 **Github:** https://github.com/NgocHaiNguyen14/dl2024
 ### STUE digital twin
 **Github:** https://github.com/ctl6998/DigitTwin (Contributors)
+### Project Infrastructure 
+Work with KVM, Ansible,... <br>
+**Github:** https://github.com/ctl6998/kvm-remote-host (Contributors)
 ### Image similarity for Cuckoo eggs evoluation.
 **Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckkoEggs
 ## Other Achievements
