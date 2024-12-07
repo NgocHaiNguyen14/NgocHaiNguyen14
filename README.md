@@ -47,7 +47,7 @@
 ### Project Infrastructure 
 (2024, ICT-USTH, subject project) Work with KVM, Ansible,... <br>
 **Github:** https://github.com/ctl6998/kvm-remote-host (Contributors)
-### Image similarity for Cuckoo eggs evoluation.
+### Image similarity for Cuckoo eggs evaluation.
 (2024, ICT-USTH, research project) <br>
 **Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
 ## Other Achievements
