@@ -56,5 +56,5 @@
 • **First prize** at the **Scientific Research Student Conference** of the University of Engineering and Technology,
 2021-2022. <br>
 • **Prize for Student of 5 merits of Hanoi – Vietnam**, 2023. <br>
-• •	**Second prize at the contest Inno-Inspiration USTH**, 2024. <br>
+• **Second prize at the contest Inno-Inspiration USTH**, 2024. <br>
 
