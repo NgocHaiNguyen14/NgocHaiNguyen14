@@ -12,11 +12,8 @@
 ## Education
 **Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (UET-VNU); **C-GPA:** 3.45/4. <br>
 **Master(2023-2025):** Data Science - Information and Communication Technonoly Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.8/20 (until 10/2024) <br>
-**PhD(finding and waiting)**
+**PhD(...)**
 ## Research
-### 4-degree-of-freedom robotic arm
-(2022, UET-VNU, student project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/4-degree-of-freedom-robotic-arm
 ### Cable climbing robot application for damage identification on suspension bridge cables 
 (2021-2023, iMech-VAST, research project) This is a private project, I can not upload full code of project. However, microcontroller program belongs to my part, so the Arduino code in <br>
 **Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Cable_Climbing_Robot
@@ -37,6 +34,9 @@
 (2024, ICT-USTH, research project) <br>
 **Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
 ## Subjects
+### 4-degree-of-freedom robotic arm
+(2022, UET-VNU, student project) <br>
+**Github:** https://github.com/NgocHaiNguyen14/4-degree-of-freedom-robotic-arm
 ### Heart disease prediction with supervised Machine Learning methods
 (2024, ICT-USTH, subject project) <br>
 **Github:** https://github.com/NgocHaiNguyen14/HeartDiseasePrediction-ML
