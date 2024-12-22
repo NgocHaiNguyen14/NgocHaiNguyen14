@@ -33,7 +33,10 @@
 - “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)
 
 **Github:** https://github.com/NgocHaiNguyen14/Auto_driving_car
-  
+### Image similarity for Cuckoo eggs evaluation.
+(2024, ICT-USTH, research project) <br>
+**Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
+## Subjects
 ### Heart disease prediction with supervised Machine Learning methods
 (2024, ICT-USTH, subject project) <br>
 **Github:** https://github.com/NgocHaiNguyen14/HeartDiseasePrediction-ML
@@ -46,9 +49,9 @@
 ### Project Infrastructure 
 (2024, ICT-USTH, subject project) Work with KVM, Ansible,... <br>
 **Github:** https://github.com/ctl6998/kvm-remote-host (Contributors)
-### Image similarity for Cuckoo eggs evaluation.
-(2024, ICT-USTH, research project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
+### Data Visualization
+(2024, ICT-USTH, subject project) Work with Tableau, Galactic, Matplotlib ... <br>
+**Github:** https://github.com/NgocHaiNguyen14/DataVisualization_USTH
 ## Other Achievements
 • **Academic encouragement scholarship** awarded by University of Engineering and Technology in the school year
 2022-2023. <br>
