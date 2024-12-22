@@ -45,10 +45,10 @@
 **Github:** https://github.com/NgocHaiNguyen14/dl2024
 ### STUE digital twin
 (2024, ICT-USTH, subject project) <br>
-**Github:** https://github.com/ctl6998/DigitTwin (Contributors)
+**Github:** https://github.com/ctl6998/DigitTwin (Contributor)
 ### Project Infrastructure 
 (2024, ICT-USTH, subject project) Work with KVM, Ansible,... <br>
-**Github:** https://github.com/ctl6998/kvm-remote-host (Contributors)
+**Github:** https://github.com/ctl6998/kvm-remote-host (Contributor)
 ### Data Visualization
 (2024, ICT-USTH, subject project) Work with Tableau, Galactic, Matplotlib ... <br>
 **Github:** https://github.com/NgocHaiNguyen14/DataVisualization_USTH
