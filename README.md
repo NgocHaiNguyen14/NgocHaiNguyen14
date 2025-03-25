@@ -13,6 +13,13 @@
 **Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (UET-VNU); **C-GPA:** 3.45/4. <br>
 **Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.8/20 (until 10/2024) <br>
 **PhD(...)**
+## Career
+**2020-06/2023**: <br>
+- Research: Project contributor of SEFAS (Spatial Equipment Fabrication and Autonomous Systems) laboratory at STI (Space Technology Institute) and project collaborator at iMech (Institute of Mechatronics) (did not graduate). <br>
+- Educating: teacher for individual students (Math). <br>
+**06/2023-2025**: <br>
+- Research: Official staff, researcher of SEFAS laboratory (STI), research collaborator at iMech.
+- Educating: Teaching assistant of the subjects: Computer Networks, Numerical Methods, Basic Programming, Informatics, Computational Theory, Machine Learning.
 ## Research
 ### Cable climbing robot application for damage identification on suspension bridge cables 
 (2021-2023, iMech-VAST, research project) This is a private project, I can not upload full code of the project. However, micro-controller program belongs to my part, so the Arduino code in <br>
