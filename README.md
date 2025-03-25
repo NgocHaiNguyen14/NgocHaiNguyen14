@@ -16,7 +16,7 @@
 ## Career
 **2020-06/2023**: <br>
 - Research: Project contributor of SEFAS (Spatial Equipment Fabrication and Autonomous Systems) laboratory at STI (Space Technology Institute) and project collaborator at iMech (Institute of Mechatronics) (did not graduate). <br>
-- Educating: teacher for individual students (Math).
+- Educating: teacher for individual students (Math), teaching assistant for English classes for communication.
 
 **06/2023-2025**: <br>
 - Research: Official staff, researcher of SEFAS laboratory (STI), research collaborator at iMech and USTH.
