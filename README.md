@@ -19,7 +19,7 @@
 - Educating: teacher for individual students (Math).
 
 **06/2023-2025**: <br>
-- Research: Official staff, researcher of SEFAS laboratory (STI), research collaborator at iMech.
+- Research: Official staff, researcher of SEFAS laboratory (STI), research collaborator at iMech and USTH.
 - Educating: Teaching assistant of the subjects: Computer Networks, Numerical Methods, Basic Programming, Informatics, Computational Theory, Machine Learning.
 ## Research
 ### Cable climbing robot application for damage identification on suspension bridge cables 
