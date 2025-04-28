@@ -4,7 +4,6 @@
 **Adrress:** Ha Noi, Viet Nam <br>
 **Contact:** <br>
 *Email:* Hainn.m23ict@usth.edu.vn or nguyenngochai1412001@gmail.com <br>
-*Phone:* +84 971511509 (Vietnam)
 ## Work Domains
 1. Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Reinforcement Learning - research and development.
 2. Robotics, Mechatronics, Electronics, Autonomous and Automatic Systems (vehicles, robots, ...) - research and development.
