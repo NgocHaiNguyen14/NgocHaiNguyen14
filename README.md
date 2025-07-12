@@ -13,16 +13,16 @@
 **Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.8/20 (until 10/2024) <br>
 **PhD(...)**
 ## Career
-**2020-06/2023**: <br>
-- Research: Project contributor of SEFAS (Spatial Equipment Fabrication and Autonomous Systems) laboratory at STI (Space Technology Institute) and project collaborator at iMech (Institute of Mechatronics) (did not graduate). <br>
-- Educating: teacher for individual students (Math), teaching assistant for English classes for communication.
+**2020-06/2023 during bachelor program**: <br>
+- Research: Project contributor of SEFAS (Spatial Equipment Fabrication and Autonomous Systems) laboratory at VNSC (Vietnam National Space Center) and project collaborator at iMech (Institute of Mechatronics). <br>
+- Educating: teacher for individual students (Math, CS, AI), ....
 
-**06/2023-2025**: <br>
-- Research: Official staff, researcher of SEFAS laboratory (STI), research collaborator at iMech and USTH.
-- Educating: Teaching assistant of the subjects: Computer Networks, Numerical Methods, Basic Programming, Informatics, Computational Theory, Machine Learning.
+**06/2023-2025 during master program**: <br>
+- Research: Official staff, researcher of SEFAS laboratory (VNSC), research collaborator at iMech and USTH.
+- Educating: Teaching assistant of the subjects: Computer Networks, Numerical Methods, Basic Programming, Informatics, Computational Theory, Machine Learning ...
 ## Research
 ### Cable climbing robot application for damage identification on suspension bridge cables 
-(2021-2023, iMech-VAST, research project) This is a private project, I can not upload full code of the project. However, micro-controller program belongs to my part, so the Arduino code in <br>
+(2021-2023, iMech-VAST, research project) This is a private project, and I can not upload the full code of the project. However, the microcontroller program belongs to my part, so the Arduino code in <br>
 **Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Cable_Climbing_Robot
 ### Three-Omni-wheeled robot applied for fire detection and early warning
 (2022-2023, SEFAS-STI-VAST, research project) <br>
@@ -40,6 +40,16 @@
 ### Image similarity for Cuckoo eggs evaluation.
 (2024, ICT-USTH, research project) <br>
 **Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
+
+### Generative AI
+(2025, self-study) <br>
+**Github:** https://github.com/NgocHaiNguyen14/GenerativeAI_lecture2025
+
+### Model Predictive Path Integral for Autonomous Systems
+(2025, research with SEFAS, main members: Hai (Ngoc) Nguyen and Kiet (Anh) Tran) <br>
+**Github:** https://github.com/NgocHaiNguyen14/MPPIforAutonomousSystem
+
+
 ## Subjects
 ### 4-degree-of-freedom robotic arm
 (2022, UET-VNU, student project) <br>
