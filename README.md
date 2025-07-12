@@ -25,13 +25,13 @@
 (2021-2023, iMech-VAST, research project) This is a private project, and I can not upload the full code of the project. However, the microcontroller program belongs to my part, so the Arduino code in <br>
 **Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Cable_Climbing_Robot
 ### Three-Omni-wheeled robot applied for fire detection and early warning
-(2022-2023, SEFAS-STI-VAST, research project) <br>
+(2022-2023, SEFAS-VNSC-VAST, research project) <br>
 **Publication:**
 - “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot” published in Engineering, Technology & Applied Science Research, doi: 10.48084/etasr.6252 (Q2).
 
 **Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Fire_and_Smoke_Warning_Robot
 ###  Autonomous four-wheeled vehicles applied AI and sensors exploitation 
-(2023-2025, SEFAS-STI-VAST, research project) <br>
+(2023-2025, SEFAS-VNSC-VAST, research project) <br>
 **Publication:**
 - “Study on the Control Method for Self-Driving Car Based on Kinematics and Dynamics Mathematics Model” published in The 7th International Conference on Engineering Mechanics and Automation, doi: 10.15625/vap.2023.0124 (conference).
 - “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)
