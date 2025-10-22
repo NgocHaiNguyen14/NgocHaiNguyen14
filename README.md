@@ -34,7 +34,7 @@
 (2023-2025, SEFAS-VNSC-VAST, research project) <br>
 **Publication:**
 - “Study on the Control Method for Self-Driving Car Based on Kinematics and Dynamics Mathematics Model” published in The 7th International Conference on Engineering Mechanics and Automation, doi: 10.15625/vap.2023.0124 (conference).
-- “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development. (Q4 - doi will be updated later)
+- “Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering”, accepted in The Fourth International Conference on Material, Machines, and Methods for Sustainable Development, doi: 10.1007/978-3-031-96126-7_5. (Q4)
 
 **Github:** https://github.com/NgocHaiNguyen14/Auto_driving_car
 ### Image similarity for Cuckoo eggs evaluation.
