@@ -10,15 +10,15 @@
 3. Education - teacher, teaching assistant.
 ## Education
 **Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (UET-VNU); **C-GPA:** 3.45/4. <br>
-**Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.8/20 (until 10/2024) <br>
+**Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.3/20 <br>
 **PhD(...)**
 ## Career
 **2020-06/2023 during bachelor program**: <br>
-- Research: Project contributor of SEFAS (Spatial Equipment Fabrication and Autonomous Systems) laboratory at VNSC (Vietnam National Space Center) and project collaborator at iMech (Institute of Mechatronics). <br>
+- Research: Project contributor of ROSUAV (Center for Robotics Systems and Unmanned Aerial Vehicle) at VNSC (Vietnam National Space Center) and project collaborator at iMech (Institute of Mechatronics). <br>
 - Educating: teacher for individual students (Math, CS, AI), ....
 
 **06/2023-2025 during master program**: <br>
-- Research: Official staff, researcher of SEFAS laboratory (VNSC), research collaborator at iMech and USTH.
+- Research: Official staff, researcher of ROSUAV laboratory (VNSC), research collaborator at iMech and USTH.
 - Educating: Teaching assistant of the subjects: Computer Networks, Numerical Methods, Basic Programming, Informatics, Computational Theory, Machine Learning ...
 ## Research
 ### Cable climbing robot application for damage identification on suspension bridge cables 
