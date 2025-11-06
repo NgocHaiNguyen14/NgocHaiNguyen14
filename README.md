@@ -10,7 +10,7 @@
 3. Education - teacher, teaching assistant.
 ## Education
 **Bachelor(2019-2023):** Mechatronics - Faculty of Engineering Mechanics and Automation - University of Engineering and Technology – Vietnam National University, Hanoi (UET-VNU); **C-GPA:** 3.45/4. <br>
-**Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.3/20 <br>
+**Master(2023-2025):** Data Science - Information and Communication Technology Department - University of Science and Technology of Hanoi (USTH) or Vietnam-France University; **C-GPA:** 14.31/20, **Ranking:** 2nd <br>
 **PhD(...)**
 ## Career
 **2020-06/2023 during bachelor program**: <br>
