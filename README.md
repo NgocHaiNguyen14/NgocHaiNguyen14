@@ -72,7 +72,7 @@
 - **Ngoc Hai .N.**; Ngoc P.V.B.; Tuan P.M.; Thien N.L.; Quan P.H.; Nguyen M.T.H.; Kiet T.A. (2025). Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering. In: Long, B.T., et al. Proceedings of the 4th Annual International Conference on Material, Machines, and Methods for Sustainable Development (MMMS2024). MMMS 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-96126-7_5 (Q4).
 - **Hai N, N.**; Hieu L, M.; Nguyen M, T, H.; Dam L, V.; Thien N, L.; Ngoc P, V, B. “Study on the Control Method for SelfDriving Car Based on Kinematics and Dynamics Mathematics Model”, published in The 7th International Conference on Engineering Mechanics and Automation, 2023, https://doi.org/10.15625/vap.2023.0124 (Conference).
 - P. V. B. Ngoc, L. H. Hoang, L. M. Hieu, **N. H. Nguyen**, N. L. Thien, and V. T. Doan, “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot”, Eng. Technol. Appl. Sci. Res., vol. 13, no. 5, pp. 11843–11849, Oct. 2023, https://doi.org/10.48084/etasr.6252 (Q2).
-- **H. N. Nguyen** et al., "SPROF: A Spatio-Temporal Probabilistic Fusion of 2D Lidar and Vision for Robust Distance Estimation," 2025 5th International Conference on Robotics, Automation, and Artificial Intelligence (RAAI), Singapore, Singapore, 2025, pp. 82-86, doi: 10.1109/RAAI67517.2025.11423076.
+- **H. N. Nguyen** et al., "SPROF: A Spatio-Temporal Probabilistic Fusion of 2D Lidar and Vision for Robust Distance Estimation," 2025 5th International Conference on Robotics, Automation, and Artificial Intelligence (RAAI), Singapore, Singapore, 2025, pp. 82-86, https://doi.org/10.1109/RAAI67517.2025.11423076.
 
 
 ## Awards
