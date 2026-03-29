@@ -72,11 +72,11 @@
 - **Ngoc Hai .N.**; Ngoc P.V.B.; Tuan P.M.; Thien N.L.; Quan P.H.; Nguyen M.T.H.; Kiet T.A. (2025). Study on the Four-Wheeled Autonomous Vehicle Control System Based on Ackerman Kinematic Model with 2 Front-Wheels Steering. In: Long, B.T., et al. Proceedings of the 4th Annual International Conference on Material, Machines, and Methods for Sustainable Development (MMMS2024). MMMS 2024. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-031-96126-7_5 (Q4).
 - **Hai N, N.**; Hieu L, M.; Nguyen M, T, H.; Dam L, V.; Thien N, L.; Ngoc P, V, B. “Study on the Control Method for SelfDriving Car Based on Kinematics and Dynamics Mathematics Model”, published in The 7th International Conference on Engineering Mechanics and Automation, 2023, https://doi.org/10.15625/vap.2023.0124 (Conference).
 - P. V. B. Ngoc, L. H. Hoang, L. M. Hieu, **N. H. Nguyen**, N. L. Thien, and V. T. Doan, “Real-Time Fire and Smoke Detection for Trajectory Planning and Navigation of a Mobile Robot”, Eng. Technol. Appl. Sci. Res., vol. 13, no. 5, pp. 11843–11849, Oct. 2023, https://doi.org/10.48084/etasr.6252 (Q2).
-- **Hai N. N.**, Ngoc P.V.B, Anh T.G., Quan P.H, Thanh T.V., Nguyen M.T.H and Thien N.L. (2025). “SPROF: A SpatioTemporal Probabilistic Fusion of 2D LiDAR and Vision for Robust Distance Estimation”. will be published in RAAI 2025 Conference Proceedings, which will be published by IEEE and archived in IEEE Xplore, and indexed by Ei Compendex and Scopus (got acceptance letter) 
+- **H. N. Nguyen** et al., "SPROF: A Spatio-Temporal Probabilistic Fusion of 2D Lidar and Vision for Robust Distance Estimation," 2025 5th International Conference on Robotics, Automation, and Artificial Intelligence (RAAI), Singapore, Singapore, 2025, pp. 82-86, doi: 10.1109/RAAI67517.2025.11423076.
 
 
 ## Awards
-• **Academic encouragement scholarship** awarded by University of Engineering and Technology in the school year
+• **Academic encouragement scholarship** awarded by the University of Engineering and Technology - VNU in the school year
 2022-2023. <br>
 • **First prize** at the **Scientific Research Student Conference** of the University of Engineering and Technology,
 2021-2022. <br>
