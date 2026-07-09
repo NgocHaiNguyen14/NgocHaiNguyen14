@@ -29,8 +29,8 @@
 ### Three-Omni-wheeled robot applied for fire detection and early warning
 (2022-2023, SEFAS-VNSC-VAST, research project) <br>
 
+**Github:** [Three Omni-wheeled Robot](https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Fire_and_Smoke_Warning_Robot) 
 
-**Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Fire_and_Smoke_Warning_Robot
 ###  Autonomous four-wheeled vehicles applied AI and sensors exploitation 
 (2023-2025, SEFAS-VNSC-VAST, research project) <br>
 
@@ -38,11 +38,11 @@
 
 ### Image similarity for Cuckoo eggs evaluation.
 (2024, ICT-USTH, research project) <br>
-**Github:** [ImageSimilarity](https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs)  
+**Github:** [Image Similarity](https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs)  
 
 ### Generative AI
 (2025, self-study) <br>
-**Github:** [ImageSimilarity](https://github.com/NgocHaiNguyen14/GenerativeAI_lecture2025)  
+**Github:** [Generatie AI - lecture](https://github.com/NgocHaiNguyen14/GenerativeAI_lecture2025)  
 
 ### Model Predictive Path Integral for Autonomous Systems
 (2025, research with SEFAS, main members: Hai (Ngoc) Nguyen and Kiet (Anh) Tran) <br>
@@ -50,7 +50,7 @@
 
 ### PluginWordPress-AIchatbox
 (2026, a group product, main members: Hai (Ngoc) NGUYEN and Chi Thanh LE (James)) <br>
-**Github:** [PluginWordPress-AIchatbox](https://github.com/NgocHaiNguyen14/PluginWordPress-AIchatbox)
+**Github:** [Plugin WordPress AIchatbox](https://github.com/NgocHaiNguyen14/PluginWordPress-AIchatbox)
 
 ### USV Simulation (MPPI, iLQR, PID comparison) using ROS
 (2026, ROSUAV-VNSC research project) <br> 
@@ -59,22 +59,22 @@
 ## Subjects
 ### 4-degree-of-freedom robotic arm
 (2022, UET-VNU, student project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/4-degree-of-freedom-robotic-arm
+**Github:** [Robotic Arm](https://github.com/NgocHaiNguyen14/4-degree-of-freedom-robotic-arm) 
 ### Heart disease prediction with supervised Machine Learning methods
 (2024, ICT-USTH, subject project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/HeartDiseasePrediction-ML
+**Github:** [Heart Disease Prediction - Machine Learning](https://github.com/NgocHaiNguyen14/HeartDiseasePrediction-ML)  
 ### Convolutional neural network from scratch
 (2024, ICT-USTH, subject project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/dl2024
+**Github:**  [Deep Learning from Scratch](https://github.com/NgocHaiNguyen14/dl2024)  
 ### STUE digital twin
 (2024, ICT-USTH, subject project) <br>
-**Github:** https://github.com/ctl6998/DigitTwin (Contributor)
+**Github:** [Digital Twin](https://github.com/ctl6998/DigitTwin)  (Contributor)
 ### Project Infrastructure 
 (2024, ICT-USTH, subject project) Work with KVM, Ansible,... <br>
-**Github:** https://github.com/ctl6998/kvm-remote-host (Contributor)
+**Github:** [Big Data, Virtual Machine and Cloud Computing](https://github.com/ctl6998/kvm-remote-host )  (Contributor)
 ### Data Visualization
 (2024, ICT-USTH, subject project) Work with Tableau, Galactic, Matplotlib ... <br>
-**Github:** https://github.com/NgocHaiNguyen14/DataVisualization_USTH
+**Github:**  [Data Visualization](https://github.com/NgocHaiNguyen14/DataVisualization_USTH)   
 
 ## Publications
 
