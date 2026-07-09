@@ -47,6 +47,8 @@
 (2025, research with SEFAS, main members: Hai (Ngoc) Nguyen and Kiet (Anh) Tran) <br>
 **Github:** https://github.com/NgocHaiNguyen14/MPPIforAutonomousSystem
 
+### PluginWordPress-AIchatbox
+(2025, a group product, main members: Hai (Ngoc) NGUYEN and Chi Thanh LE (James)) <br>
 
 ## Subjects
 ### 4-degree-of-freedom robotic arm
