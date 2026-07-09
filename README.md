@@ -4,7 +4,8 @@
 **Adrress:** Ha Noi, Viet Nam <br>
 **Contact:** <br>
 *Email:* nnhai@vnsc.vast.vn or nguyenngochai1412001@gmail.com <br>
-**Webpage:**https://m23t.io.vn/members/harry/  
+
+**Webpage** https://m23t.io.vn/members/harry/  including AI chatbox to provide my own information
 ## Work Domains
 1. Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Reinforcement Learning - research and development.
 2. Robotics, Mechatronics, Electronics, Autonomous and Automatic Systems (vehicles, robots, ...) - research and development.
