@@ -48,7 +48,12 @@
 **Github:** https://github.com/NgocHaiNguyen14/MPPIforAutonomousSystem
 
 ### PluginWordPress-AIchatbox
-(2025, a group product, main members: Hai (Ngoc) NGUYEN and Chi Thanh LE (James)) <br>
+(2026, a group product, main members: Hai (Ngoc) NGUYEN and Chi Thanh LE (James)) <br>
+**Github:** [PluginWordPress-AIchatbox](https://github.com/NgocHaiNguyen14/PluginWordPress-AIchatbox)
+
+### USV Simulation (MPPI, iLQR, PID comparison) using ROS
+(2026, ROSUAV-VNSC research project) <br> 
+**Github:** [USV Simulation](https://github.com/NgocHaiNguyen14/USV-Simulation-ROS)
 
 ## Subjects
 ### 4-degree-of-freedom robotic arm
