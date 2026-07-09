@@ -25,7 +25,7 @@
 ## Research
 ### Cable climbing robot application for damage identification on suspension bridge cables 
 (2021-2023, iMech-VAST, research project) This is a private project, and I can not upload the full code of the project. However, the microcontroller program belongs to my part, so the Arduino code in <br>
-**Github:** https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Cable_Climbing_Robot
+**Github:** [Cable Climbing Robot](https://github.com/NgocHaiNguyen14/BachelorProjects/tree/main/Cable_Climbing_Robot)
 ### Three-Omni-wheeled robot applied for fire detection and early warning
 (2022-2023, SEFAS-VNSC-VAST, research project) <br>
 
@@ -34,18 +34,19 @@
 ###  Autonomous four-wheeled vehicles applied AI and sensors exploitation 
 (2023-2025, SEFAS-VNSC-VAST, research project) <br>
 
-**Github:** https://github.com/NgocHaiNguyen14/Auto_driving_car
+**Github:** [Auto Driving Car](https://github.com/NgocHaiNguyen14/Auto_driving_car) 
+
 ### Image similarity for Cuckoo eggs evaluation.
 (2024, ICT-USTH, research project) <br>
-**Github:** https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs
+**Github:** [ImageSimilarity](https://github.com/NgocHaiNguyen14/ImageSimilarity_CuckooEggs)  
 
 ### Generative AI
 (2025, self-study) <br>
-**Github:** https://github.com/NgocHaiNguyen14/GenerativeAI_lecture2025
+**Github:** [ImageSimilarity](https://github.com/NgocHaiNguyen14/GenerativeAI_lecture2025)  
 
 ### Model Predictive Path Integral for Autonomous Systems
 (2025, research with SEFAS, main members: Hai (Ngoc) Nguyen and Kiet (Anh) Tran) <br>
-**Github:** https://github.com/NgocHaiNguyen14/MPPIforAutonomousSystem
+**Github:**  [MPPI for Autonomous Systems]( https://github.com/NgocHaiNguyen14/MPPIforAutonomousSystem)  
 
 ### PluginWordPress-AIchatbox
 (2026, a group product, main members: Hai (Ngoc) NGUYEN and Chi Thanh LE (James)) <br>
