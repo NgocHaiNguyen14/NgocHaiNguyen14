@@ -3,7 +3,7 @@
 **DoB:** 14/01/2001 <br>
 **Adrress:** Ha Noi, Viet Nam <br>
 **Contact:** <br>
-*Email:* nnhai@vnsc.vast.vn or nguyenngochai1412001@gmail.com <br>
+*Email:* hnn@cs.aau.dk / nnhai@vnsc.vast.vn / nguyenngochai1412001@gmail.com <br>
 
 **Webpage** https://m23t.io.vn/members/harry/  including AI chatbox to provide my own information
 ## Work Domains
